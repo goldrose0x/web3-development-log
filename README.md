@@ -6,3 +6,5 @@ Reviewing smart contract tests
 Reviewing validator rewards
 
 Reviewing DAO governance
+
+Reviewing validation
