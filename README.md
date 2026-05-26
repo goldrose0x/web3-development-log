@@ -8,3 +8,5 @@ Reviewing validator rewards
 Reviewing DAO governance
 
 Reviewing validation
+
+Tracking Web3 growth
