@@ -10,3 +10,5 @@ Reviewing DAO governance
 Reviewing validation
 
 Tracking Web3 growth
+
+Improving structure
