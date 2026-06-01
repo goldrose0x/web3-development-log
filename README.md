@@ -8,3 +8,4 @@
 - Improving structure
 - Improving structure
 - Updating logs
+- Researching Base network
