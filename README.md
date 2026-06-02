@@ -9,3 +9,4 @@
 - Improving structure
 - Updating logs
 - Researching Base network
+- Reviewing testing
