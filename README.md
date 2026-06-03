@@ -10,3 +10,4 @@
 - Updating logs
 - Researching Base network
 - Reviewing testing
+- Reviewing sharding
