@@ -11,3 +11,4 @@
 - Researching Base network
 - Reviewing testing
 - Reviewing sharding
+- Reviewing DAO voting
