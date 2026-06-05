@@ -12,3 +12,4 @@
 - Reviewing testing
 - Reviewing sharding
 - Reviewing DAO voting
+- Studying testing again
