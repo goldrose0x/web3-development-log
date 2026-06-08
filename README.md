@@ -13,3 +13,4 @@
 - Reviewing sharding
 - Reviewing DAO voting
 - Studying testing again
+- Exploring staking rewards
