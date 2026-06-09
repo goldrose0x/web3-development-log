@@ -14,3 +14,4 @@
 - Reviewing DAO voting
 - Studying testing again
 - Exploring staking rewards
+- Adding summaries
