@@ -15,3 +15,4 @@
 - Studying testing again
 - Exploring staking rewards
 - Adding summaries
+- Updating logs
