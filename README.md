@@ -16,3 +16,4 @@
 - Exploring staking rewards
 - Adding summaries
 - Updating logs
+- Refining content
