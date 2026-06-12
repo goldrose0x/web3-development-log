@@ -17,3 +17,4 @@
 - Adding summaries
 - Updating logs
 - Refining content
+- Refining docs
