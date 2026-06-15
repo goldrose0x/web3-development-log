@@ -18,3 +18,4 @@
 - Updating logs
 - Refining content
 - Refining docs
+- Adding improvements
