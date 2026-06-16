@@ -19,3 +19,4 @@
 - Refining content
 - Refining docs
 - Adding improvements
+- Writing cleaner documentation.
