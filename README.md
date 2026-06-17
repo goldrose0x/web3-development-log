@@ -20,3 +20,4 @@
 - Refining docs
 - Adding improvements
 - Writing cleaner documentation.
+- Testing small updates frequently.
