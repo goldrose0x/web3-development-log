@@ -21,3 +21,4 @@
 - Adding improvements
 - Writing cleaner documentation.
 - Testing small updates frequently.
+- Improving documentation clarity.
