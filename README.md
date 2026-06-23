@@ -23,3 +23,4 @@
 - Testing small updates frequently.
 - Improving documentation clarity.
 - Reviewing blockchain consensus mechanisms.
+- Exploring NFT standards briefly.
