@@ -26,3 +26,4 @@
 - Exploring NFT standards briefly.
 - Understanding rollups at a high level.
 - Studying gas fee mechanisms.
+- Exploring audit methodologies.
