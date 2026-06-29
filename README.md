@@ -27,3 +27,4 @@
 - Understanding rollups at a high level.
 - Studying gas fee mechanisms.
 - Exploring audit methodologies.
+- Adding learning reflections.
