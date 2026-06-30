@@ -28,3 +28,4 @@
 - Studying gas fee mechanisms.
 - Exploring audit methodologies.
 - Adding learning reflections.
+- Exploring hash functions briefly.
