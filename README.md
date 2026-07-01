@@ -29,3 +29,4 @@
 - Exploring audit methodologies.
 - Adding learning reflections.
 - Exploring hash functions briefly.
+- Summarizing current development stage.
