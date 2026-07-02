@@ -30,3 +30,4 @@
 - Adding learning reflections.
 - Exploring hash functions briefly.
 - Summarizing current development stage.
+- Exploring staking reward mechanisms.
