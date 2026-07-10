@@ -36,3 +36,4 @@
 - Studying reentrancy attack patterns.
 - Studying validator node operations.
 - Learning about liquidity pools basics.
+- Exploring sharding concepts at high level.
