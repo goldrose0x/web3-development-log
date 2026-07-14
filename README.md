@@ -38,3 +38,4 @@
 - Learning about liquidity pools basics.
 - Exploring sharding concepts at high level.
 - Studying backend and blockchain interaction.
+- Reviewing test coverage strategies.
