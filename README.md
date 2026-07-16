@@ -40,3 +40,4 @@
 - Studying backend and blockchain interaction.
 - Reviewing test coverage strategies.
 - Reviewing proof of work differences.
+- Learning about frontend wallet connectors.
