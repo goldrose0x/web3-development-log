@@ -42,3 +42,4 @@
 - Reviewing proof of work differences.
 - Learning about frontend wallet connectors.
 - Refining Web3 learning approach.
+- Reading about decentralized applications.
