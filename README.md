@@ -44,3 +44,4 @@
 - Refining Web3 learning approach.
 - Reading about decentralized applications.
 - Tracking daily coding progress.
+- Learning about commit history tracking.
