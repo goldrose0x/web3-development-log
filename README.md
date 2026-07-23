@@ -45,3 +45,4 @@
 - Reading about decentralized applications.
 - Tracking daily coding progress.
 - Learning about commit history tracking.
+- Adding new learning milestones.
