@@ -46,3 +46,4 @@
 - Tracking daily coding progress.
 - Learning about commit history tracking.
 - Adding new learning milestones.
+- Reviewing Git best practices.
