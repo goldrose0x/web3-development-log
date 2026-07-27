@@ -47,3 +47,4 @@
 - Learning about commit history tracking.
 - Adding new learning milestones.
 - Reviewing Git best practices.
+- Exploring on-chain data basics.
