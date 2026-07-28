@@ -48,3 +48,4 @@
 - Adding new learning milestones.
 - Reviewing Git best practices.
 - Exploring on-chain data basics.
+- Documenting daily development routine.
