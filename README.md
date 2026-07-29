@@ -49,3 +49,4 @@
 - Reviewing Git best practices.
 - Exploring on-chain data basics.
 - Documenting daily development routine.
+- Researching blockchain use cases.
