@@ -50,3 +50,4 @@
 - Exploring on-chain data basics.
 - Documenting daily development routine.
 - Researching blockchain use cases.
+- Improving development workflow efficiency.
