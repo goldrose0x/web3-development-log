@@ -51,3 +51,4 @@
 - Documenting daily development routine.
 - Researching blockchain use cases.
 - Improving development workflow efficiency.
+- Exploring hash functions briefly.
