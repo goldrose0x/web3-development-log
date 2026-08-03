@@ -52,3 +52,4 @@
 - Researching blockchain use cases.
 - Improving development workflow efficiency.
 - Exploring hash functions briefly.
+- Expanding my knowledge in blockchain architecture.
