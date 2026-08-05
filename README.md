@@ -54,3 +54,4 @@
 - Exploring hash functions briefly.
 - Expanding my knowledge in blockchain architecture.
 - Exploring IPFS fundamentals.
+- Exploring sharding concepts at high level.
