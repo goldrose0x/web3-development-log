@@ -55,3 +55,4 @@
 - Expanding my knowledge in blockchain architecture.
 - Exploring IPFS fundamentals.
 - Exploring sharding concepts at high level.
+- Reviewing MIT vs GPL differences.
