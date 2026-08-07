@@ -56,3 +56,4 @@
 - Exploring IPFS fundamentals.
 - Exploring sharding concepts at high level.
 - Reviewing MIT vs GPL differences.
+- Improving structured development timeline.
