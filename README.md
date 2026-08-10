@@ -57,3 +57,4 @@
 - Exploring sharding concepts at high level.
 - Reviewing MIT vs GPL differences.
 - Improving structured development timeline.
+- Improving blockchain research notes.
