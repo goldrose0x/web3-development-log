@@ -58,3 +58,4 @@
 - Reviewing MIT vs GPL differences.
 - Improving structured development timeline.
 - Improving blockchain research notes.
+- Improving consistency in learning logs.
