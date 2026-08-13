@@ -60,3 +60,4 @@
 - Improving blockchain research notes.
 - Improving consistency in learning logs.
 - Improving overall repository organization.
+- Improving clarity
