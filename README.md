@@ -62,3 +62,4 @@
 - Improving overall repository organization.
 - Improving clarity
 - Exploring governance
+- Exploring full stack Web3
