@@ -64,3 +64,4 @@
 - Exploring governance
 - Exploring full stack Web3
 - Studying smart contract risks
+- Exploring distributed systems
