@@ -66,3 +66,4 @@
 - Studying smart contract risks
 - Exploring distributed systems
 - Researching liquidity pools
+- Reviewing smart contract risks
