@@ -67,3 +67,4 @@
 - Exploring distributed systems
 - Researching liquidity pools
 - Reviewing smart contract risks
+- Reviewing IPFS
