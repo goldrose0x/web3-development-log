@@ -69,3 +69,4 @@
 - Reviewing smart contract risks
 - Reviewing IPFS
 - Studying smart contract logs
+- Reviewing AMM basics
