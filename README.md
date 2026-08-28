@@ -70,3 +70,4 @@
 - Reviewing IPFS
 - Studying smart contract logs
 - Reviewing AMM basics
+- Reviewing blockchain growth
