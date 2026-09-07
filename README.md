@@ -72,3 +72,4 @@
 - Reviewing AMM basics
 - Reviewing blockchain growth
 - Improving headings
+- Improving readability
