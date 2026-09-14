@@ -75,3 +75,4 @@
 - Improving readability
 - Improving readability
 - Updating reflections
+- Improving organization
