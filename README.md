@@ -76,3 +76,4 @@
 - Improving readability
 - Updating reflections
 - Improving organization
+- Learning zk basics
