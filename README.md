@@ -77,3 +77,4 @@
 - Updating reflections
 - Improving organization
 - Learning zk basics
+- Reviewing sharding
