@@ -78,3 +78,4 @@
 - Improving organization
 - Learning zk basics
 - Reviewing sharding
+- Reviewing sharding
