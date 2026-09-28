@@ -79,3 +79,4 @@
 - Learning zk basics
 - Reviewing sharding
 - Reviewing sharding
+- Studying validators
