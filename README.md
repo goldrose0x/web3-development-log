@@ -80,3 +80,4 @@
 - Reviewing sharding
 - Reviewing sharding
 - Studying validators
+- Reviewing gas usage
