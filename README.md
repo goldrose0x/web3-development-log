@@ -81,3 +81,6 @@
 - Reviewing sharding
 - Studying validators
 - Reviewing gas usage
+
+## October
+- Exploring staking rewards
