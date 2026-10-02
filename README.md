@@ -84,3 +84,4 @@
 
 ## October
 - Exploring staking rewards
+- Exploring the Base ecosystem.
