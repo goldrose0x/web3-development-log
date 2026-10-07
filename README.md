@@ -85,3 +85,4 @@
 ## October
 - Exploring staking rewards
 - Exploring the Base ecosystem.
+- Researching Web3 development tools.
