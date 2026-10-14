@@ -87,3 +87,4 @@
 - Exploring the Base ecosystem.
 - Researching Web3 development tools.
 - Exploring blockchain fundamentals.
+- Studying smart contract security basics.
