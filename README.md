@@ -90,3 +90,4 @@
 - Studying smart contract security basics.
 - Studying ERC-20 fundamentals.
 - Understanding rollups at a high level.
+- Studying gas fee mechanisms.
