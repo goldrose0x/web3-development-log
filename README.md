@@ -92,3 +92,4 @@
 - Understanding rollups at a high level.
 - Studying gas fee mechanisms.
 - Improving technical note clarity.
+- Exploring backend integration ideas.
