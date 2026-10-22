@@ -93,3 +93,4 @@
 - Studying gas fee mechanisms.
 - Improving technical note clarity.
 - Exploring backend integration ideas.
+- Exploring hash functions briefly.
