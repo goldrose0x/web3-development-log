@@ -95,3 +95,4 @@
 - Exploring backend integration ideas.
 - Exploring hash functions briefly.
 - Adding final refinements to documentation.
+- Researching validator incentives.
