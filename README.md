@@ -97,3 +97,4 @@
 - Adding final refinements to documentation.
 - Researching validator incentives.
 - Learning about access control in contracts.
+- Exploring RPC provider differences.
