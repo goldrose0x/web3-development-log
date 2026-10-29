@@ -98,3 +98,5 @@
 - Researching validator incentives.
 - Learning about access control in contracts.
 - Exploring RPC provider differences.
+- Review Web3 fundamentals
+- Studying validator node operations.
