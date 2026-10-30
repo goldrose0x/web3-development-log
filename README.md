@@ -100,3 +100,4 @@
 - Exploring RPC provider differences.
 - Review Web3 fundamentals
 - Studying validator node operations.
+- Learning about liquidity pools basics.
