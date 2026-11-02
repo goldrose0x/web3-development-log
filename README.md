@@ -97,7 +97,10 @@
 - Adding final refinements to documentation.
 - Researching validator incentives.
 - Learning about access control in contracts.
-- Exploring RPC provider differences.
+- Exploring RPC provider differences
+
+## November
+- Exploring sharding concepts at high level.
 - Review Web3 fundamentals
 - Studying validator node operations.
 - Learning about liquidity pools basics.
