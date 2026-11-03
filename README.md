@@ -104,3 +104,4 @@
 - Review Web3 fundamentals
 - Studying validator node operations.
 - Learning about liquidity pools basics.
+- Studying backend and blockchain interaction.
