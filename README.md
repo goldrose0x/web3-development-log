@@ -105,3 +105,4 @@
 - Studying validator node operations.
 - Learning about liquidity pools basics.
 - Studying backend and blockchain interaction.
+- Improving structured development timeline.
