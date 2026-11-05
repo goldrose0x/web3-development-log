@@ -106,3 +106,4 @@
 - Learning about liquidity pools basics.
 - Studying backend and blockchain interaction.
 - Improving structured development timeline.
+- Improving blockchain research notes.
